@@ -9,6 +9,6 @@ commands:
   - .yamato/scripts/build_osx_runtime.sh
 
 artifacts: 
-  osx-i386:
+  osx:
     paths:
-      - incomingbuilds/osx-i386/**
+      - incomingbuilds/osx/**

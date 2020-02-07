@@ -13,5 +13,5 @@ else
   exit 1
 fi
 
-mkdir -p incomingbuilds/osx-i386
-cp -r builds/* incomingbuilds/osx-i386/
+mkdir -p incomingbuilds/osx
+cp -r builds/* incomingbuilds/osx/
